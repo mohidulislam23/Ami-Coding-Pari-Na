@@ -22,8 +22,8 @@ This is a Django-based web application that provides user authentication and a s
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/django-auth-search-app.git`
-2. Navigate to the project directory: `cd django-auth-search-app`
+1. Clone the repository: `git clone https://github.com/mohidulislam23/Ami-Coding-Pari-Na`
+2. Navigate to the project directory: `cd source`
 3. Install the required packages: `pip install -r requirements.txt`
 4. Set up your environment variables for email configuration (`EMAIL_USER` and `EMAIL_PASS`).
 5. Apply database migrations: `python manage.py migrate`
